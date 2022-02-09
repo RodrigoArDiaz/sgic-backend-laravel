@@ -1,5 +1,5 @@
 <?php
-
+//comentario de prueba
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
